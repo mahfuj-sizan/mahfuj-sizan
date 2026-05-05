@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuj-sizan) 
 # 💻 Tech Stack:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ArcGIS,QGIS,Google Earth Engine,AutoCAD,Revit,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=ArcGIS,QGIS,Google Earth Engine, AutoCAD, Revit, git,github,vscode" />
 </p>
 
 ### GIS & Research Tools
