@@ -5,6 +5,14 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuj-sizan) 
 # 💻 Tech Stack:
+## ⚡ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+### GIS & Research Tools
+ArcGIS • QGIS • Google Earth Engine • AutoCAD • Revit  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mahfuj-sizan&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
