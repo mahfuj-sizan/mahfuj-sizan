@@ -25,7 +25,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mahfuj-sizan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mahfuj-sizan&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
